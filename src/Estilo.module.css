@@ -1,0 +1,17 @@
+.tarjetas{
+    list-style: none;
+    font-size: 1rem;
+    text-align: center;
+}
+.Imagenes{
+    border-radius: 10px;
+    background-color: azure;
+
+}
+
+@media (max-width: 560px){
+    .tarjetas {
+       width: 90%;
+       height: auto;
+    }
+}

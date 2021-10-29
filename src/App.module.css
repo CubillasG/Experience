@@ -1,0 +1,9 @@
+.titulo{
+    text-align: center;
+    text-shadow:   0px 0px 10px #c8efee,
+    0px 0px 10px #c8efee,
+    0px 0px 40px #46c9c5,
+    0px 0px 40px #46c9c5,
+    0px 0px 40px #46c9c5;
+    font-size: 3rem;
+}
